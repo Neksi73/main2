@@ -1,0 +1,41 @@
+body{
+   margin: 0;
+}
+
+.foto{
+   position: relative;
+   /* left: 15px; */
+   /* right: 15px; */
+   width: 100%;
+   z-index: 1;
+   background-size: cover;
+}
+
+.glav_text {
+	position	: absolute;
+	top		: 125px;
+   /* text-align: center; */
+	left		: 995pxpx; 
+    right: -500px;
+	width		: 100%;
+   z-index  : 3;
+   font-size: 80px;
+   color    : #0e5275;
+}
+.glav{
+  
+   /* width: 100vh; */
+   /* z-index: 1; */
+}
+
+#text{
+   
+   z-index: 2;
+   position: relative;
+   lefft
+}
+
+#cc{
+   text-decoration: none;
+}
+
